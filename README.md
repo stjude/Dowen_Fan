@@ -43,13 +43,13 @@
 
 ---
 ## Quick Start
-Installing Dowen_fan:
+Installing Dowen_Fan:
 
-git clone https://github.com/AlagurajVeluchamy/Dowen_fan.git; cd Dowen_fan
+git clone https://github.com/stjude/Dowen_Fan.git; cd Dowen_Fan
 
 ## Description:
 
-Dowen_fan is a pipeline that enables user to define significantly interacting ChIA-PET loops. This tool is robust and efficient in deducing the Insulated Neighborhoods.
+Dowen_Fan is a pipeline that enables user to define significantly interacting ChIA-PET loops. This tool is robust and efficient in deducing the Insulated Neighborhoods.
 
 #### Dependencies
 cutadapt (v 4.3) 
